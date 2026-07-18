@@ -1,0 +1,24 @@
+{
+  "name": "resume-optimizer-skills",
+  "displayName": "Resume Optimizer Skills",
+  "description": "AI skills for rewriting and optimizing resumes aligned with job descriptions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "contributes": {
+    "chatParticipants": [
+      {
+        "id": "resume-optimizer.optimize",
+        "name": "resume-optimizer",
+        "fullName": "Resume Optimizer",
+        "description": "Rewrite and optimize your resume for a specific job posting",
+        "isSticky": true
+      }
+    ]
+  }
+}
