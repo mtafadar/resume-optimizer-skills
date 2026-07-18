@@ -1,0 +1,7 @@
+{
+    "name": "resume-optimizer-skills",
+    "version": "1.0.0",
+    "description": "A plugin to optimize resume skills",
+    "author": "Mosrour Tafadar",
+    "skills": "skills/"
+}
