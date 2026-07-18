@@ -3,6 +3,11 @@
   "displayName": "Resume Optimizer Skills",
   "description": "AI skills for rewriting and optimizing resumes aligned with job descriptions",
   "version": "0.0.1",
+  "publisher": "local",
+  "repository": {
+    "type" : "git", 
+    "url" : "https://github.com/mtafadar/resume-optimizer-skills.git"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
